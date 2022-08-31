@@ -1,6 +1,0 @@
-pwd - prints the absolute path of the current working directory
-ls - display the content list of the current directory
-cd - changes the working directoy to the users home directory
-ls -l - displays the working directory content in long format
-ls -la - display current working directory content including hidden files
-
